@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.result {
+    background-color: darkcyan;
+    color: white;
+   
+}
+.result:hover{
+    background-color: green;
+} 
+   
+   
