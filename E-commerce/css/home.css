@@ -1,0 +1,9 @@
+ body{
+   background-color: rgb(209,226,233);
+ }
+
+ .nav-link:hover{
+   transform:scale(1.0) ;
+   border: 5px solid white;
+   background-color: white;
+ }
